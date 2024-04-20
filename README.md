@@ -20,7 +20,7 @@ Project - Scientific Calculator
 
 ![image](https://github.com/cathy-09/Project-module-8/assets/158329994/a34c0a2f-6007-4ed7-951b-aa9c06709cd9)
 
-## Usage/Examples
+## Code
 
 ```c++
 #include <LiquidCrystal.h>
